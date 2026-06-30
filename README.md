@@ -6,7 +6,7 @@ Official implementation of **PS-MOT: Cultivating Instance Awareness from Point S
 
 Kai Luo, Fei Teng, Mengfei Duan, Wanjun Jia, Xu Wang, Hao Shi, Kunyu Peng, Zhiyong Li, Kailun Yang
 
-[[Paper]](./assets/PS_MOT.pdf) [[Code]](https://github.com/xifen523/PS-MOT)
+[[Paper]](https://arxiv.org/pdf/2606.30476) [[Code]](https://github.com/xifen523/PS-MOT)
 
 ---
 

@@ -27,6 +27,12 @@ To address the spatial ambiguity and identity drift caused by point supervision,
 
 ---
 
+## Demo
+
+https://github.com/user-attachments/assets/16363cd3-86d8-4b41-bcca-c4582e7df322
+
+---
+
 ## Method
 
 Our PS-Track framework follows a coarse-to-fine point-to-instance evolution paradigm across three levels:

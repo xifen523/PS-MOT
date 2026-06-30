@@ -36,7 +36,7 @@ Our PS-Track framework follows a coarse-to-fine point-to-instance evolution para
 * **Uncertainty-Guided Gaussian Learning (UGL)** models pseudo-labels as probabilistic distributions and dynamically calibrates supervision intensity.
 
 <p align="center">
-  <img src="assets/ps-mot pepeline.png" width="95%">
+  <img src="assets/pipeline2.1.png" width="95%">
 </p>
 
 <p align="center">

@@ -1,0 +1,40 @@
+# Root gitignore file
+
+# IDE
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Local datasets and generated experiment artifacts
+/dataset
+/dataset/
+/datasets
+/datasets/
+/outputs/
+/pretrains/
+/checkpoints/
+/weights/
+/wandb/
+*.log
+events.out.tfevents*
+
+# Model weights and exported artifacts
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.so
+*.o

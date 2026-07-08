@@ -5,9 +5,25 @@ The official implementation of PS-MOT: Cultivating Instance Awareness from Point
 <h1 align="center"><strong>PS-MOT: Cultivating Instance Awareness from Point Seeds for Multi-Object Tracking</strong></h1>
 <h3 align="center">ECCV 2026</h3>
 
-Kai Luo, Fei Teng, Mengfei Duan, Wanjun Jia, Xu Wang, Hao Shi, Kunyu Peng, Zhiyong Li, [Kailun Yang](https://yangkailun.com)
+<p align="center">
+    <a>Kai Luo</a><sup>1</sup>,</span>
+    <a>Fei Teng</a><sup>1</sup>,
+    <a>Mengfei Duan</a><sup>1</sup>,
+    <a>Wanjun Jia</a><sup>1</sup>,
+    <a>Xu Wang</a><sup>1</sup>,
+    <a>Hao Shi</a><sup>2,3</sup>,
+    <a>Kunyu Peng</a><sup>4,5</sup>,
+    <a>Zhiyong Li</a><sup>1</sup>,
+    <a href="https://yangkailun.com">Kailun Yang</a><sup>1†</sup>
+    <br>
+        <sup>1</sup>Hunan University,
+        <sup>2</sup>Ant Group,
+        <sup>3</sup>Zhejiang University,
+        <sup>4</sup>Karlsruhe Institute of Technology,
+        <sup>5</sup>INSAIT, Sofia University “St. Kliment Ohridski”
+</p>
 
-[[Paper]](https://arxiv.org/pdf/2606.30476) [[Code]](https://github.com/xifen523/PS-MOT)
+## PS-MOT [[PDF]](https://arxiv.org/pdf/2606.30476) [[Code]](https://github.com/xifen523/PS-MOT)
 
 ---
 

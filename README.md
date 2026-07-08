@@ -1,8 +1,9 @@
-# PS-MOT: Cultivating Instance Awareness from Point Seeds for Multi-Object Tracking
+<!-- # PS-MOT
+The official implementation of PS-MOT: Cultivating Instance Awareness from Point Seeds for Multi-Object Tracking (ECCV 2026) -->
 
-Official implementation of **PS-MOT: Cultivating Instance Awareness from Point Seeds for Multi-Object Tracking**.
-
-**ECCV 2026**
+<p align="center">
+<h1 align="center"><strong>PS-MOT: Cultivating Instance Awareness from Point Seeds for Multi-Object Tracking</strong></h1>
+<h3 align="center">ECCV 2026</h3>
 
 Kai Luo, Fei Teng, Mengfei Duan, Wanjun Jia, Xu Wang, Hao Shi, Kunyu Peng, Zhiyong Li, Kailun Yang
 
